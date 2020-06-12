@@ -54,8 +54,8 @@ Order by run in config.plist
 - FakePCIID → **FakePCIID_Intel_I225-V** - 2.5Gbit Ethernet (Intel I225-V)
 - **AppleALC** v1.5.0 - Lilu plug-in, for managing internal Realtek ALC-1220 audio.
 - **IntelMausiEthernet** v2.5.1d1 - Intel onboard LAN driver for macOS.
-- **NVMeFix** - Lilu plug-in, for managing power consumption on NVMe SSDs [NVMeFix](acidanthera/NVMeFix)
-- **USBWakeFixup** - Fix for ACPI device with the right wakeup params (systems without a working EC) [USBWakeFixup](osy86/USBWakeFixup)
+- **NVMeFix** - Lilu plug-in, for managing power consumption on NVMe SSDs [NVMeFix](https://github.com/acidanthera/NVMeFix)
+- **USBWakeFixup** - Fix for ACPI device with the right wakeup params (systems without a working EC) [USBWakeFixup](https://github.com/osy86/USBWakeFixup)
 
 #### BIOS
 - Thanks to: [CaseySJ](https://www.tonymacx86.com/members/caseysj.2134452/) ; Guide [original](https://www.tonymacx86.com/threads/gigabyte-z490-vision-d-thunderbolt-3-i5-10400-amd-rx-580.298642/) + [Screenshots](https://www.tonymacx86.com/threads/gigabyte-z490-vision-d-thunderbolt-3-i5-10400-amd-rx-580.298642/#lg=post-2128415&slide=9)
