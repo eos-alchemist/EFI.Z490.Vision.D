@@ -72,6 +72,7 @@ Order by run in config.plist
   - Above 4G Decoding → Enabled
 - **Settings → IOPorts → Thunderbolt**
   - Security Level → No Security
+  - Thunderbold Boot Support → Boot once
 - **Settings → IOPorts → Thunderbolt → Discrete Thunderbolt Configuration**
   - GPIO3 Force Pwr → Enabled
 - **Settings → IOPorts → USB Configuration**
